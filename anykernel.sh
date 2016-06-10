@@ -8,6 +8,7 @@ do.devicecheck=0
 do.initd=0
 do.modules=0
 do.cleanup=1
+do.system=1
 device.name1=armani
 device.name2=
 device.name3=
